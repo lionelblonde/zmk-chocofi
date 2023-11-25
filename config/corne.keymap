@@ -86,7 +86,7 @@
 // sym layer
 //
                         bindings = <
-   &none &kp AT &  &kp LBKT &kp LPAR      &kp LBRC  &kp DOLLAR             &none &none     &none     &none    &none    &none
+   &none &kp AT    &kp LBKT &kp LPAR      &kp LBRC  &kp DOLLAR             &none &none     &none     &none    &none    &none
    &none &kp UNDER &kp RBKT &kp RPAR      &kp RBRC  &kp CARET              &none &kp LSHFT &kp LCTRL &kp LALT &kp LGUI &none
    &none &kp PIPE  &kp HASH &kp AMPERSAND &kp GRAVE &kp BACKSLASH          &none &none     &none     &none    &none    &none
                               &kp EXCLAMATION &kp TILDE &kp QUESTION     &none &none &none
